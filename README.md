@@ -33,6 +33,11 @@ It’s a testament to perseverance: sometimes deleting a project isn’t failure
 
 ---
 
+## 📀 Installation
+Pending...
+
+---
+
 ## 🚀 Demo
 
 Demo the app here! : genai-studybuddy.streamlit.app
