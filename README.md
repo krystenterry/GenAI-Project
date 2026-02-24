@@ -1,4 +1,4 @@
-# 🎯 AI Certification Study Buddy  
+# 🎯 AI Study Gudie Developer  
 
 An AI-powered study assistant that generates **comprehensive open-book exam study guides** for certifications and topics of your choice. Built with **OpenAI**, **Python**, and **Streamlit**, this app produces structured study guides and downloadable PDFs to make learning efficient and exam-focused.  
 
