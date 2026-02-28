@@ -34,8 +34,39 @@ It’s a testament to perseverance: sometimes deleting a project isn’t failure
 ---
 
 ## 📀 Installation
-Pending...
 
+🚀 How to Run This Project Locally
+
+Follow these steps to reproduce and run the AI Study Guide Developer.
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/krystenterry/GenAI-Project.git
+cd GenAI-Project
+```
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Set Up Environment Variables (API Key)
+
+This app requires an OpenAI API key.
+
+Create a file named `.env` in the root folder and add:
+
+```
+OPENAI_API_KEY=your_api_key_here
+```
+
+### 5. Run the Streamlit App
+
+```bash
+streamlit run app.py
+```
 ---
 
 ## 🚀 Demo
