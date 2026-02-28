@@ -52,7 +52,7 @@ cd GenAI-Project
 pip install -r requirements.txt
 ```
 
-### 4. Set Up Environment Variables (API Key)
+### 4. Set Up the API Key
 
 This app requires an OpenAI API key.
 
